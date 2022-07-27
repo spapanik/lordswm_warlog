@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name         Lordswm warlog
-// @namespace    https://openuserjs.org/users/spapanik
-// @updateURL    https://openuserjs.org/meta/spapanik/Lordswm_warlog.meta.js
+// @namespace    https://github.com/spapanik
 // @version      0.1.1
 // @description  Link to full battle
 // @author       spapanik
