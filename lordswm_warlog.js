@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Lordswm warlog
 // @namespace    https://github.com/spapanik
-// @version      0.1.1
+// @version      0.1.2
 // @description  Link to full battle
 // @author       spapanik
 // @match        https://www.lordswm.com/*
