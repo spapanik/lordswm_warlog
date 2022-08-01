@@ -5,7 +5,7 @@
 // @description  Link to full battle
 // @author       spapanik
 // @match        https://www.lordswm.com/*
-// @licence      LGPL-3.0-or-later
+// @license      LGPL-3.0-or-later
 // ==/UserScript==
 
 (function() {
